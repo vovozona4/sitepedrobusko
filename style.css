@@ -1,6 +1,6 @@
 header {
     background-image:linear-gradient(to top, header {
-        background-image:linear-gradient(to top, #F8B3E0, #DE61C3);
+        background-image:linear-gradient(to top, #3f0b2d67, #DE61C3);
         margin: 0;
         padding: 0;
         display:block ;
@@ -10,7 +10,7 @@ header {
        
      }
      body{
-        background-color: #F8B3E0;
+        background-color: #b3e8f8;
      }
      
      
@@ -19,7 +19,7 @@ header {
      .titulo1{
         font-size: 50px;
         text-align: center;
-        color: #34092D;
+        color: #340909;
         font-style: italic;
      }
      
@@ -27,7 +27,7 @@ header {
      .titulo2{
         font-size: 100px;
         text-align: center;
-        color:#80066b ;
+        color:#80066c69 ;
        
      }
       
@@ -35,7 +35,7 @@ header {
         margin-left: 100px;
         margin-top: 200px;
         margin-right: 1550px;;
-        background-color:#ec6ac1;
+        background-color:#6aa7ec;
         height: 300px;
        
      }
