@@ -1,4 +1,166 @@
 header {
-    background-color: #424E61;
-    color: white;
-}
+    background-image:linear-gradient(to top, header {
+        background-image:linear-gradient(to top, #F8B3E0, #DE61C3);
+        margin: 0;
+        padding: 0;
+        display:block ;
+        justify-content: space-around;
+        padding: 24px;
+        color: #F6D5EB;
+       
+     }
+     body{
+        background-color: #F8B3E0;
+     }
+     
+     
+     
+     
+     .titulo1{
+        font-size: 50px;
+        text-align: center;
+        color: #34092D;
+        font-style: italic;
+     }
+     
+     
+     .titulo2{
+        font-size: 100px;
+        text-align: center;
+        color:#80066b ;
+       
+     }
+      
+     .escola {
+        margin-left: 100px;
+        margin-top: 200px;
+        margin-right: 1550px;;
+        background-color:#ec6ac1;
+        height: 300px;
+       
+     }
+     .escola-imagem{
+        margin-left: 450px ;
+        margin-bottom: 1400px;
+       
+     }
+     
+     
+     estudante {
+        padding: 24px;
+     }
+     
+     
+     .est.ud
+     ante-div{
+        text-align: center;
+        padding:26px 0;
+        font-size: 40px;
+     ;
+     }
+     
+     
+     .estudante-titulo{
+        te
+     xt-align: center;
+        padding: 50px 0;
+        font-size: 50px;
+     /*/ background-color:#46alcf;/*/
+     }
+     
+     
+     .estudante-todos{
+        display: grid;
+        grid-template-columns: 20%  20% 20% 20% 20%
+       
+     }
+     .nossa-escola{
+        font-size: 50px;
+        text-align:center;
+        margin-left: 850px;
+       
+     }
+     , #503842);
+    margin: 0;
+    padding: 0;
+    display:block ;
+    justify-content: space-around;
+    padding: 24px;
+    color: #F6D5EB;
+   
+ }
+ body{
+    background-color: #F8B3E0;
+ }
+ 
+ 
+ 
+ 
+ .titulo1{
+    font-size: 50px;
+    text-align: center;
+    color: #34092D;
+    font-style: italic;
+ }
+ 
+ 
+ .titulo2{
+    font-size: 100px;
+    text-align: center;
+    color:#065980 ;
+   
+ }
+  
+ .escola {
+    margin-left: 100px;
+    margin-top: 200px;
+    margin-right: 1550px;;
+    background-color:#ec6ac1;
+    height: 300px;
+   
+ }
+ .escola-imagem{
+    margin-left: 450px ;
+    margin-bottom: 1400px;
+   
+ }
+ 
+ 
+ estudante {
+    padding: 24px;
+ }
+ 
+ 
+ .est.ud
+ ante-div{
+    text-align: center;
+    padding:26px 0;
+    font-size: 40px;
+ ;
+ }
+ 
+ 
+ .estudante-titulo{
+    te
+ xt-align: center;
+    padding: 50px 0;
+    font-size: 50px;
+ /*/ background-color:#46alcf;/*/
+ }
+ 
+ 
+ .estudante-todos{
+    display: grid;
+    grid-template-columns: 20%  20% 20% 20% 20%
+   
+ }
+ .nossa-escola{
+    font-size: 50px;
+    text-align:center;
+    margin-left: 850px;
+   
+ }
+ 
+ 
+ 
+ 
